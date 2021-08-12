@@ -1,0 +1,21 @@
+                <p className="Head2">Would you have </p>
+        <select name="years" id="year">
+        <option value="five" className="Head2">five years</option>
+        <option value="four" className="Head2">four years</option>
+        <option value="three" selected className="Head2">three years</option>
+        <option value="two" className="Head2">two years</option>
+        <option value="one" className="Head2">a year</option>
+
+        </select>
+        <p className="Head2"> long</p>
+        
+        
+        <select className="Head2" name="long" id="long">
+        <option >Monthly</option>
+        <option selected> Every Day</option>
+        <option  > Weekly</option>
+        </select>
+        <p>€</p>
+        <input type="number" id="betrag" name="betrag" min="1" value="20" ></input>
+        <p>you would invest in Bitcoin today</p>
+        </div>

@@ -1,0 +1,127 @@
+element.style {
+    width: 907px;
+    left: 0px;
+}
+.elementor-35 .elementor-element.elementor-element-4167098:not(.elementor-motion-effects-element-type-background), .elementor-35 .elementor-element.elementor-element-4167098 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: rgb(255, 255, 255);
+}
+@media (max-width: 1024px)
+.elementor-35 .elementor-element.elementor-element-4167098 {
+    padding: 40px 20px;
+}
+.elementor-35 .elementor-element.elementor-element-4167098 {
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s;
+    padding: 0px 20px;
+}
+.elementor-section.elementor-section-stretched {
+    position: relative;
+    width: 100%;
+}
+.elementor-section {
+    position: relative;
+}
+.elementor *, .elementor :after, .elementor :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+.elementor {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.elementor-kit-11 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+}
+@media (min-width: 576px)
+body, .site-title {
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+}
+body, .site-title {
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0px;
+    font-weight: 400;
+    text-transform: none;
+    font-family: Poppins, var(--nv-fallback-ff);
+}
+body {
+    font-size: 16px;
+}
+body {
+    font-family: Graphik,-apple-system,BlinkMacSystemFont,Segoe UI,var(--nv-fallback-ff);
+    color: var(--nv-text-color);
+    line-height: 1.68421;
+    overflow-x: hidden;
+    direction: ltr;
+    background-color: var(--nv-site-bg);
+}
+:root {
+    --page-title-display: block;
+}
+:root {
+    --e-global-color-nvprimaryaccent: #000000;
+    --e-global-color-nvsecondaryaccent: #4f4f4f;
+    --e-global-color-nvsitebg: #ffffff;
+    --e-global-color-nvlightbg: #ededed;
+    --e-global-color-nvdarkbg: #14171c;
+    --e-global-color-nvtextcolor: #000000;
+    --e-global-color-nvtextdarkbg: #ffffff;
+    --e-global-color-nvc1: #77b978;
+    --e-global-color-nvc2: #f37262;
+}
+:root {
+    --nv-primary-accent: #000000;
+    --nv-secondary-accent: #4f4f4f;
+    --nv-site-bg: #ffffff;
+    --nv-light-bg: #ededed;
+    --nv-dark-bg: #14171c;
+    --nv-text-color: #000000;
+    --nv-text-dark-bg: #ffffff;
+    --nv-c-1: #77b978;
+    --nv-c-2: #f37262;
+    --nv-fallback-ff: Arial, Helvetica, sans-serif;
+}
+html {
+    font-size: 100%;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.elementor *, .elementor :after, .elementor :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.elementor *, .elementor :after, .elementor :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
